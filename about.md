@@ -4,27 +4,17 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Year0 is the personal blog of JD Panzer. It records a number of things, but mostly my five-year span of sobriety and the process behind it.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+##Five Years
 
-There are currently two themes built on Poole:
+On December 23, 2012, I stopped drinking. I'd had a particularly bad night of it a few days before and finally copped to a very simple truth: I have a problem.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+What started as an impulse became a resolution: five years without a drop, five yeas in which to sort my various issues out and put together a better life for myself. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Alcoholics Anonymous works for a great many people, as do any number of twelve-steps and programs. That's not my choice, however. I chose an arbitrary time frame in which to address the underlying cause of alcohol abuse. 
 
-## Setup
+For a great many different reasons, I have some difficulties with managing my emotions. Alcohol became an answer. A really poor answer.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+What I'm discovering in the process is, well, everything. There are so many things to see when you open your eyes to another way, another philosophy. This, then, is my philosophy.
