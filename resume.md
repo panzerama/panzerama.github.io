@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Resume
+published: false
 ---
-
-*For more information of clarification of anything here, please [feel free to email me!](mailto:jason.drew.panzer@gmail.com)*
 
 #J.D. Panzer
 
@@ -11,10 +10,10 @@ title: Resume
 
 ##Recent work experiences:
 
-* Account Manager | BiddingForGood, Inc. | 2013-Present
-* E-Commerce Manager | ExOfficio, LLC | 2011-2013
-* Stage Manager: The Clockwork Professor | Pork Filled Productions | 2013
-* Production Manager | GreenStage | 2011-2012
+Account Manager | BiddingForGood, Inc. | 2013-Present
+E-Commerce Manager | ExOfficio, LLC | 2011-2013
+Stage Manager: The Clockwork Professor | Pork Filled Productions | 2013
+Production Manager | GreenStage | 2011-2012
 
 ##Education
 
