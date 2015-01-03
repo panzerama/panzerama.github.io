@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-published: false
 ---
 
 *For more information of clarification of anything here, please [feel free to email me!](mailto:jason.drew.panzer@gmail.com)*
