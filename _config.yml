@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Year0
+title:            Year[0]
 tagline:          'a place full of things'
 description:      'These are not essays. These are not thoughts or musings or reflections or even very humble opinions. They just are, for your consideration.'
 url:              http://panzerama.github.io
