@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Year[0]
 tagline:          'a place full of things'
-description:      'Things that are, and are for your consideration.'
+description:      'The place you start from is empty until you build meaning after it.'
 url:              http://panzerama.github.io
 baseurl:          /
 
