@@ -3,7 +3,9 @@ layout: post
 title: The Long Goodbye
 ---
 
-I'm a salesman, and even in the world of emails and social media and data mining, sometimes doing business means talking to someone. This isn't a vice, far from it. I rather enjoy talking with the people I work with. They work for non-proifts, and are for the most part quite nice folk. The conversations I have vary from long explanations and q&a sessions to brief, businesslike exchanges, but they all share one thing in common.
+**I'm a salesman, and even in the world of emails and social media and data mining, sometimes doing business means talking to someone.** 
+
+This isn't a chore for me, far from it. I rather enjoy talking with my clients. They work for non-proifts, and are for the most part quite nice folk. The conversations I have vary from long explanations and q&a sessions to brief, businesslike exchanges, but they all share one thing in common.
 
 Nobody knows how to say goodbye. 
 
