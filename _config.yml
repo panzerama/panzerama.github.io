@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Year[0]
 tagline:          'a place full of things'
 description:      'The place you start from is empty until you build meaning after it.'
-url:              http://panzerama.github.io
+url:              http://indexyear.com
 baseurl:          /
 
 author:
