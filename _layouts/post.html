@@ -4,10 +4,8 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  <br/>
   <div class="fb-share-button" data-href="http://indexyear.com{{ post.url }}" data-layout="icon"></div>
-  <br/>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
 
