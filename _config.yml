@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Year[0]
 tagline:          'a place full of things'
-description:      'The place you start from is empty until you build meaning after it.'
+description:      "We're all looking for something to fill with meaning"
 url:              http://indexyear.com
 baseurl:          /
 
