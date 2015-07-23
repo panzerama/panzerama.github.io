@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Ball and Chain
+layout: post
+title: Ball and Chain
 ---
 
 ##I'm getting married in just about a month.
