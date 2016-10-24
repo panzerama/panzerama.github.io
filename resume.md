@@ -1,38 +1,68 @@
 ---
 layout: page
 title: Resume
-published: false
+published: true
 ---
 
 #J.D. Panzer
 
-*Talented amateur building expertise in the realms of Python, voice-over acting, sales and speculative fiction. New experiences are the fuel for a well-rounded person.*
+*Self-taught programmer currently furthering my education in the Application Development program at North
+Seattle College, with an expected graduation date of June 2018. I am an experienced SaaS account manager
+and have led teams at both philanthropic and private sector companies. My corporate experience is bolstered
+by 8 years of production management for nonprofit arts organizations.*
 
-##Recent work experiences:
+##Projects 
 
-Account Manager | BiddingForGood, Inc. | 2013-Present
-E-Commerce Manager | ExOfficio, LLC | 2011-2013
-Stage Manager: The Clockwork Professor | Pork Filled Productions | 2013
-Production Manager | GreenStage | 2011-2012
+| ####Critaholic | ####Cthonic Ind. | ####IndexYear |
+|----------------|------------------|---------------|
+| *Combat tracker app for Dungeons and Dragons* | *Parallax demo website* | *Personal blog built on Jekyll with Poole* |
+| *Python, Django, and Selenium				    | *HTML, CSS              | *Ruby, Jekyll, Markdown       |
+| *github.com/panzerama/critaholic.git          | *www.thaliaschild.com   | *panzerama.github.com         |
 
-##Education
-
-* Bachelor of Arts in Drama, Willamette University, 2004-2008
 
 ##Skills
 
-* Proficiency with MS Office Suite, especially MS Excel formulae
-* Professional communications and policy documentation
-* Web design with HTML, CSS, and JavaScript with jQuery UI
-* Social media management with HootSuite for a retail-oriented brand
-* SQL queries in Qlikview Business Intelligence and MySQL for osCommerce
-* Website management within the DotNetNuke CMS
-* Analysis of e-commerce operations and customer behavior with MixPanel and Google Analytics
-* Merchandising and media management with Adobe Marketing Cloud
-* Adobe Creative Suite, particularly Photoshop, Dreamweaver and Audition
-* Copy editing for product related media
-* Production scheduling, contracts, and organization for professional theaters
-* Lighting and sound for theatrical events
+| ####Languages		| ####Development 	| ####Other 				|
+|-------------------|-------------------|---------------------------|
+| * Python			| * Django 			| * Arts Project Management |
+| * Java			| * Selenium 		| * SaaS Account Management |
+| * Javascript		| * Git/Github 		| * Training Development	|
+| * Bash			| * BeautifulSoup 	| 							|
+| * HTML			|  					| 							|
+| * CSS				| 		 			| 							|
+
+####Development
+* Django
+* Selenium
+* Git/Github
+* BeautifulSoup 
+
+####Other
+* Arts Project Management
+* SaaS Account Management
+* Training Development
+
+##Education
+
+* Bachelor of Applied Science, Application Development, North Seattle, 2016 - 2018 (expected)
+* MOOC: Web Scraping with Python, University of Michigan via Coursera, 2016
+* MOOC: Cryptography I, Stanford University via Coursera, 2014
+* Bachelor of Arts, Drama, Willamette University, 2004-2008
+
+##Work Experiences
+
+####Mobile Services ManagerFrontstream 2013 – Present
+* Supported key clients and managed retention with a 40% churn rate.
+* Recruited travel staff from existing employees and managed partnered learning to double support capacity.
+* Developed client and staff training for premium events and coordinated trainings across five offices in the US and Canada.
+* Managed hardware logistics for support across 75 successful fundraising events.
+####Customer Service Lead ExOffcio 2011 – 2013
+* Oversaw direct sales customer service and e-commerce, maintaining standards of response and satisfaction.
+* Improved returns workflow by implementing a database management system across three facilities using QuickBase.
+####Stage and Production Management 2009 - 2013
+* Responsibilites ranged from oversight of individual productions to the management of an entire season of outdoor festival events.
+* Worked with Pork Filled Players (2016, 2013), ReACT (2012, 2011), Ghostlight (2012), GreenStage (2012, 2011), Seattle Public
+Theater (2010), North Seattle College (2009) 
 
 ##Contact
 
