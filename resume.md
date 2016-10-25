@@ -31,17 +31,6 @@ by 8 years of production management for nonprofit arts organizations.*
 | * HTML			|  					| 							|
 | * CSS				| 		 			| 							|
 
-####Development
-* Django
-* Selenium
-* Git/Github
-* BeautifulSoup 
-
-####Other
-* Arts Project Management
-* SaaS Account Management
-* Training Development
-
 ##Education
 
 * Bachelor of Applied Science, Application Development, North Seattle, 2016 - 2018 (expected)
