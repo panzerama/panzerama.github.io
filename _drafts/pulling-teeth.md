@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pulling teeth
-permalink: pulling-teeth.html
 categories: etymology theater word wordplay
 ---
 

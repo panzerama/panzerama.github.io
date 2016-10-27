@@ -15,3 +15,4 @@ Which is the way people want it, I suppose.
 * specific discussion of parent's work
 * Apply this to information on white-collar crime and fraus
 * wrap up with discussion of seattle politics
+
