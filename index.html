@@ -1,37 +1,56 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    <meta charset="utf-8">
+    <title>Resume - JD Panzer</title>
+    <meta name="description" content="resume">
+    <meta name="author" content="jason drew panzer">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico: 400" rel="stylesheet" type="text/css">
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/skeleton.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns" style="margin-top: 10%">
+                <h1>Jason Drew Panzer</h1>
+                <ul>
+                    <li><a href="tel:+12064597793">206.459.7793</a></li>
+                    <li><a href="mailto:jason.drew.panzer@gmail.com">jason dot drew dot panzer at gmail dot com</a></li>
+                    <li><a href="https://www.linkedin.com/in/jasondrewpanzer/">LinkedIn</a></li>
+                    <li><a href="https://github.com/panzerama">GitHub</a></li>
+                </ul>
+                <p>Python focused programmer currently furthering my education in the BAS in Application Development degree program
+                    at North Seattle College. Experienced SaaS account manager at both philanthropic and private sector companies.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="five columns headline">Portfolio</div>
+        </div>
+        <div class="row">
+            <div class="five columns headline">Skills</div>
+        </div>
+        <div class="row">
+            <div class="five columns headline">Education</div>
+        </div>
+        <div class="row">
+            <div class="five columns headline">Experiences</div>
+        </div>
+        <div class="row">
+            <div class="five columns headline">Volunteer</div>
+        </div>
+    </div>
+
+</body>
+</html>
