@@ -6,10 +6,9 @@ date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Here There Be Monsters
+### Mapmaking Techniques for Tabletop Roleplaying Games 
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+Each person I've met playing tabletop RPGs has their own favorite aspect of the game. Many of my players are theatre artists, and perhaps unsurprisingly their favorite part is storytelling. I'm lucky to have been surrounded by people who value creativity. 
 
-## Open Sourced on GitHub
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
