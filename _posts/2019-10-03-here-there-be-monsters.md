@@ -6,8 +6,7 @@ date:   2019-10-02 22:00:00
 categories: posts
 ---
 
-# Here There Be Monsters: Mapmaking techniques for tabletop roleplaying games
-### *Great stories depend on a great world*
+# Great stories depend on a great world
 Tamora Pierce spins a great yarn without telling you all of Tortall’s history while Terry Brooks does go on a bit, but manages to tell his story without writing a treatise. The stories that stick with us are the ones that we can connect with.
 
 That’s why I play RPGS: I get to tell stories that connect me to my friends.

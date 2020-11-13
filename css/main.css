@@ -132,8 +132,17 @@ a:hover {
 #info-container {
   display: block;
   width: 100%;
-  max-height: 300px;
+  height: 300px;
   overflow: hidden;
+  position: relative;
+}
+
+#cover-photo-container > img {
+  left: 50%;
+  margin-left: -200px;
+  top: 50%;
+  margin-top: -200px;
+  position:absolute;
 }
 
 #info-container {
@@ -208,6 +217,8 @@ a:hover {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* Adjusting titles */
 
 .post h1 {
   margin: .3em 0;
