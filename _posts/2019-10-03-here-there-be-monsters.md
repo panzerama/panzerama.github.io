@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Here There Be Monsters: Mapmaking techniques for tabletop roleplaying games'
-cover: ersetu.jpg
+cover: ersetu.png
 date:   2019-10-02 22:00:00
 categories: posts
 ---
