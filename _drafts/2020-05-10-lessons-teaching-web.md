@@ -10,10 +10,11 @@ I'm a relative latecomer to the world of software development. This is my third 
 When I was asked to come back and be a tutor after graduation, I was initially skeptical about my qualifications. The figurative ink on my paychecks from Nordstrom was still drying. I learned very quickly that my qualification was in wanting to help, not exhaustive knowledge.
 I was asked to step in and help out with a web development course this past spring with very little notice. I am a mobile app developer at Nordstrom, and teaching web dev required a lot of catching up. I made some good choices, I made some bad choices, and ultimately I'll go into the next year of tutoring and teaching with a much different idea of how to help students make the most of their education.
 Caveat: I am not an expert in web dev, pedagogy, or project management. My opinions are based on my professional and personal experiences and shouldn't be construed as gospel truth. I'll leave dogmatic pronouncements to the Bob Martins of the world.
-## The Particular Challenges of North Seattle College
-### Student Financial, Cultural, and Personal Circumstances
-Teaching with compassion
+
+## Teaching with compassion
 Accessibility
+Free resources
+Background material on everything
 
 ## Qualification is in the Eye of the Beholder
 
