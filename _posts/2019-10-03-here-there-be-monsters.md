@@ -2,6 +2,8 @@
 layout: post
 title: 'Here There Be Monsters: Mapmaking techniques for tabletop roleplaying games'
 cover: ersetu.png
+cover-alt: 'A hand drawn map of an island'
+cover-attr: 'Rebecca A Demarest, from "Less Than Charming"'
 date:   2019-10-02 22:00:00
 categories: posts
 ---
