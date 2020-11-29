@@ -3,7 +3,7 @@ layout: post
 title: 'This Week On...'
 cover: bigfoot-woods.jpg
 cover-alt: 'bigfoot walking in the woods'
-cover-attr: 'Ryan McGuire from Pixabay'
+cover-attr: '<a href="https://pixabay.com/users/ryanmcguire-123690/">Ryan McGuire</a> from Pixabay'
 date:   2020-11-28 09:16:30
 categories: posts
 ---
