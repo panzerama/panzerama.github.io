@@ -4,11 +4,12 @@
   </div>
   <div id="post-info">
     <div id="cover-photo-container">
-      <img id="cover-photo" src="/images/{{ page.cover }}">
+      <img id="cover-photo" src="/images/{{ page.cover }}" alt="{{ page.cover-alt }}">
     </div>
     <div id="info-container">
       <h1 id="title">{{ page.title }}</h1>
       <span id="date">{{ page.date | date_to_string }}</span>
+      {% if page.cover-alt %} <h6>Image Credit {{ page.cover-attr }}</h6> {% endif %}
     </div>
   </div>
 
